@@ -9,6 +9,7 @@
 # THANKS
 
 	Thanks to all my students!
+	With especial thanks to Goodreads.
     <name>
 
 # TECHNOLOGY COLOPHON
