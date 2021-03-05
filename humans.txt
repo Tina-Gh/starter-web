@@ -10,6 +10,7 @@
 
 	Thanks to all my students!
 	With especial thanks to Goodreads.
+	Please leave a review if you like this course.
     <name>
 
 # TECHNOLOGY COLOPHON
