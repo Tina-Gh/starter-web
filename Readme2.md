@@ -6,6 +6,7 @@ Saaaaample text for rebasing.
 Adding more text after rebasing (before was in "master" branch. Now is in "myfeature" branch).
 
 Updating for emergency stash!
+ediiiiiir!
 
 ## Intriduction 
 
